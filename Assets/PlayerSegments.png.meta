@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 3b5ad96ebfc563241abb6e2235e184cc
+timeCreated: 1449676325
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UpperArm
+    21300002: LowerArm
+    21300004: Torso
+    21300006: UpperLeg
+    21300008: PlayerSegments_4
+    21300010: Head
+    21300012: Foot
+    21300014: LowerLeg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UpperArm
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 260
+        width: 77
+        height: 181
+      alignment: 9
+      pivot: {x: .50000006, y: .823793888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LowerArm
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 267
+        width: 78
+        height: 166
+      alignment: 9
+      pivot: {x: .55181843, y: .853052139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Torso
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 143
+        width: 112
+        height: 305
+      alignment: 9
+      pivot: {x: .5, y: .145510763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UpperLeg
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 255
+        width: 93
+        height: 199
+      alignment: 9
+      pivot: {x: .489134759, y: .814816594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerSegments_4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 365
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 137
+        height: 178
+      alignment: 9
+      pivot: {x: .26398018, y: .108304828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Foot
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 56
+        width: 129
+        height: 60
+      alignment: 9
+      pivot: {x: .257176369, y: .668409467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LowerLeg
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 56
+        width: 89
+        height: 177
+      alignment: 9
+      pivot: {x: .579474628, y: .853946209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
